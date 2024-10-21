@@ -1,0 +1,47 @@
+*{
+    margin:0;
+    bottom:0;
+}
+
+nav {
+    width:auto;
+    /*position: relative;*/
+    padding:2%;
+    background-color: rgba(255, 255, 255, 0.6);
+    font-family: "Open Sans", sans-serif;
+    text-align:right;
+    z-index: 1;
+}
+
+a {
+    margin-left:5%;
+}
+
+img {
+    width: 100%;
+   /* position:absolute;*/
+    height: auto;
+    z-index:0;
+}
+
+div h1{
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+    padding: 5%;
+}
+
+article {
+    width: 100%;
+}
+
+#description-pour-etudiants {
+background-color: brown;
+width:48%;
+float:left;
+text-align: center;
+}
+
+#image-pour-etudiants {
+    width:48%;
+    float: right;
+}
